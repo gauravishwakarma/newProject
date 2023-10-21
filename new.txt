@@ -1,1 +1,2 @@
 Hello, Welcome to Linux Programming. I this we will learn basics of Linux.
+New things take time.
