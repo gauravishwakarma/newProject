@@ -1,2 +1,3 @@
 High Welcome to Git Class. Agenda is to lern Git command in deep.
 Good to go now. we will learn file system in Linux.
+ls is used to get list of directory
